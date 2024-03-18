@@ -1,17 +1,14 @@
 # Presentation
 
-Ce theme est contruit au tour du module [layout-builder](https://www.drupal.org/docs/8/core/modules/layout-builder) et offre plus de 100 layouts vous permettant de l'ameliorer et de coutruire de nouvelle pages, sections et layouts (mise en page).
+This is an installation guide for the Opendata theme (Drupal 10). This document will guide you through installing the theme from scratch on your server. This documentation will also help you to manage different parts of the website backend and to manage the content of your website using this theme...
 
-Habeuk-event est un theme compatible drupal9/10, il vous permet de construire rapide un site drupal. Si vous debutez la creation de votre site nous vous
-recommandons d'utiliser.
-
-## Petite mise au point
+## A little clarification
 
 Tout au long de ce guide nous allons utiliser des expressions tels que sections, layouts, boutons ..., il est important que vous puissiez comprendre cela dès maintenant.
 
 ### Sections
 
-Une section represente un bloc qui permet de representer ou ressortir une information. Elle occupe toute la largeur de la page. Sur une page d'accueil par example on peut avoir plusiseurs sections : une section pour presenter les resumés des differents services, une section pour ressortir le resumé du blog, une section contenant un formulaire de contact ainsi de suite.
+A section is a block that represents or highlights information. It occupies the entire width of the page. On a home page, for example, you might have several sections: a section to present summaries of the different services, a section to display the blog summary, a section containing a contact form, and so on.
 
 ##### Example : 1
 
@@ -29,4 +26,4 @@ Une section represente un bloc qui permet de representer ou ressortir une inform
 
 ### Layout
 
-Un layout ( mise en page ) est une disposition graphiques des elements tels que titre, description, images, icones... Du point de vue Drupal un layout peut etre un element assez simple tels qu'un bouton ou une structure assez compliqué tels qu'une Section , un diaporama (slider)...
+A layout is a graphical arrangement of elements such as title, description, images, icons... From Drupal's point of view, a layout can be a simple element such as a button, or a complex structure such as a Section, a slideshow (slider)...

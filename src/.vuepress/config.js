@@ -77,42 +77,43 @@ module.exports = {
           ],
         },
         {
-          title: "Gestions du contenu",
-          path: "/docs/contents/quick-update",
-          collapsable: false,
-          //children: [{ title: "New installation", path: "installation" }],
-        },
-        {
-          title: "Gestions de l'affichage",
+          title: "Display management",
           path: "/docs/utilisation/manage-content",
           collapsable: true,
           children: [
             {
-              title: "Mise en place d'un layout",
+              title: "Setting up a layout",
               path: "/docs/utilisation/mise-place-layout",
             },
             {
-              title: "Ajout des sections",
+              title: "Adding sections",
               path: "/docs/utilisation/creation-sections",
             },
             {
-              title: "Configuration des menus",
+              title: "Menu configuration",
               path: "/docs/utilisation/creation-menus",
             },
             {
-              title: "Configuration des pages",
-              path: "/docs/utilisation/creation-pages",
+              title: "adding taxonomies",
+              path: "/docs/utilisation/taxonomies",
             },
             {
-              title: "Configuration des teasers",
-              path: "/docs/utilisation/creation-teasers",
+              title: "Documents",
+              path: "/docs/utilisation/document",
             },
             {
-              title: "autres examples",
+              title: "other modifications",
               path: "/docs/utilisation/auther-examples",
             },
           ],
         },
+        {
+          title: "Content management",
+          path: "/docs/contents/quick-update",
+          collapsable: false,
+          //children: [{ title: "New installation", path: "installation" }],
+        },
+        
       ],
       "/foo/": [
         "" /* /foo/ */,
