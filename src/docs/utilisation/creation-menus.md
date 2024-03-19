@@ -5,7 +5,7 @@ creating a menu involves several steps, as follows (there are two methods, but w
 
 ### creating a block
 
-We'll start by creating a block in structure > block > add block, which will manage the display of fields, then click on add block and add a layout (Bestlayous: dynamic header).
+We'll start by creating a block in "structure > block > add block", which will manage the display of fields, then click on add block and add a layout (Bestlayous: dynamic header).
 
 <figure class="figure">
   <img src="../../assets/images/best.png" class="figure-img img-fluid rounded" alt="...">

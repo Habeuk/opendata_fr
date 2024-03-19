@@ -1,7 +1,7 @@
 ### theme modification or theme regeneration 
 
 
-To modify the theme, simply go to content for theme style creation/update.
+To modify the theme, simply go to content for theme style "creation/update".
 
 
 
@@ -20,7 +20,7 @@ then we select our configuration and make some changes, then we save the configu
 
 ### modifying theme styles
 
-to modify our theme styles, go to configuration / user interface / generate style theme config
+to modify our theme styles, go to "configuration / user interface / generate style theme config"
 
 <figure class="figure">
   <img src="../../assets/images/style.png" class="figure-img img-fluid rounded" alt="...">

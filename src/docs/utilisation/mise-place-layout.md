@@ -10,7 +10,7 @@ Creating a layout involves 4 phases:
 
 <ol>
   <li> identifying the entity to be used </li>
-  <li> filling in chmps </li>
+  <li> filling in fields</li>
   <li> Layout configuration </li>
   <li>Displaying our layout </li>
 </ol>

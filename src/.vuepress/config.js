@@ -9,7 +9,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: "Habeuk-event Documentation by Habeuk v1.0.0",
+  title: "opendata Documentation by Habeuk v1.0.0",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -65,7 +65,7 @@ module.exports = {
           title: "Presentation",
           path: "/docs/index",
           collapsable: false,
-          children: [{ title: "Introduction", collapsable: false }],
+          children: [{ title: "", collapsable: false }],
         },
         {
           title: "Installation",

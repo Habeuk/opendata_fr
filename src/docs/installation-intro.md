@@ -1,4 +1,4 @@
 ### Introduction
 
-Pour l'environnement de Drupal, [voir la configuration recommandée](https://www.drupal.org/docs/understanding-drupal/how-drupal-9-was-made-and-what-is-included/environment-requirements-of-drupal-9).
-Nous vous conseillons egalement d'utiliser composer pour gerer le telechargement des fichiers (coeur, modules et themes) et les mises à jour.
+For the Drupal environment, [see recommended configuration](https://www.drupal.org/docs/understanding-drupal/how-drupal-9-was-made-and-what-is-included/environment-requirements-of-drupal-9).
+We also recommend that you use composer to manage file downloads (core, modules and themes) and updates.

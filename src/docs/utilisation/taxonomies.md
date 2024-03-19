@@ -1,6 +1,6 @@
 # Adding taxonomies
 
-to create a taxonomy go to structure > taxonomies and add a new vocabulary (e.g. categories)
+to create a taxonomy go to "structure > taxonomies" and add a new vocabulary (e.g. categories)
 <figure class="figure" >
   <img src="../../assets/images/vocabulaire.png" class="figure-img img-fluid rounded" alt="...">
   <figcaption class="figure-caption"> on se rend dans taxonomies </figcaption>

@@ -21,7 +21,7 @@ then configure the layout
 
 ## Adding documents
 
-to add a document go to structure / document content 
+to add a document go to "structure / document content" 
 
 <figure class="figure" >
   <img src="../../assets/images/contenu.png" class="figure-img img-fluid rounded" alt="...">
