@@ -2,7 +2,7 @@
 const { description } = require("../../package");
 
 module.exports = {
-  base: "/events/",
+  base: "/bindh/",
   // publicPath: " ",
   // publicPath: process.env.BASE_URL,
   // assetsDir: process.env.BASE_URL,
@@ -69,7 +69,7 @@ module.exports = {
         },
         {
           title: "Installation",
-          path: "installation",
+          path: "/docs/installation",
           collapsable: false,
           children: [
             { title: "New installation", path: "installation" },
