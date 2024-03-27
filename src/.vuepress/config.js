@@ -9,7 +9,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: "opendata Documentation by Habeuk v1.0.0",
+  title: "Bibliothèque numérique Documentation by Habeuk v1.0.0",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */

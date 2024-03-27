@@ -1,6 +1,6 @@
 # Presentation
 
-This is an installation guide for the Opendata theme (Drupal 10). This document will guide you through installing the theme from scratch on your server. This documentation will also help you manage different parts of the website backend and manage your website content using this theme.
+This is an installation guide for the Bibliothèque_numérique theme (Drupal 10). This document will guide you through installing the theme from scratch on your server. This documentation will also help you manage different parts of the website backend and manage your website content using this theme.
 
 ## A quick refresher
 

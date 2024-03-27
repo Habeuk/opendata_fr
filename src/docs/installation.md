@@ -18,7 +18,7 @@ In this section we'll look at how to install the website from scratch.
 The installation package consists of the complete Drupal site with the theme, various modules, sample content and is excellent for beginners to explore the back-end settings and sample content. Installing the demo theme is just like installing Drupal, but you will have the full demo website installed on your server.
 Localhost installation: Create a new folder in the htdocs folder for Xampp (www folder for Wamp) or on linux simply create a "siteweb" folder at the root of your computer. Unzip all the files and folders in the demo theme into the folder you have just created and open the demo folder.
 
-The basic data for installation is in the file "opendata/new-installation/opendata.sql.gz", copy the contents and unzip it into the root folder of your hosting. (As a general rule, this is the public_html folder or the parent folder of your site, but if you have any doubts please ask your web host). Next, open a browser and enter the domain name, for example http://opendata.com.
+The basic data for installation is in the file "new-installation/Bibliothèque_numérique.sql.gz", copy the contents and unzip it into the root folder of your hosting. (As a general rule, this is the public_html folder or the parent folder of your site, but if you have any doubts please ask your web host). Next, open a browser and enter the domain name, for example http://Bibliothèque_numérique.com.
 
 The site installation page will load and you will be asked to select the Language.
 <figure class="figure">
@@ -31,7 +31,7 @@ The next step is to configure the database:
   <figcaption class="figure-caption"> Database connection settings </figcaption>
 </figure>
 
-We will then create a database in our database manager (example: adminer) and import the database downloaded from "opendata/new-installation/opendata.sql.gz"
+We will then create a database in our database manager (example: adminer) and import the database downloaded from "new-installation/Bibliothèque_numérique.sql.gz"
 
 <figure class="figure">
   <img src="../assets/images/bd.png" class="figure-img img-fluid rounded" alt="...">
